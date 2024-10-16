@@ -6,7 +6,7 @@ After training the model it generates baby name ideas that all sound name-like, 
 
 # Preprocessing 
 
-Preprocessed the data to remove any unwanted characters other than english alphabets,removed blank spaces,duplicate entries etc.
+Preprocessed the data to remove any unwanted characters other than english alphabets,removed blank spaces,duplicate entries,added a dataset of female names with the original dataset and shuffled the whole dataset for uniform training.
 
 
 
